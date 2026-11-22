@@ -1,3 +1,3 @@
 # Pinokl
 
-Birleşimleri say, elleri topla! Yapay zekâ rakiplere karşı; her bölüm kazanılabilir olduğu denetlenmiş bir el; 50.000 bölüm. Kart Oyunları merkez uygulamasının oyunu; ortak motor: kart-motoru.
+Birleşimleri say, elleri topla! Yapay zekâ rakiplere karşı; her bölüm kazanılabilir olduğu denetlenmiş bir el; 100.000 bölüm. Kart Oyunları merkez uygulamasının oyunu; ortak motor: kart-motoru.
